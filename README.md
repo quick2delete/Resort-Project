@@ -1,2 +1,0 @@
-# Resort-Project
-Resort Website
